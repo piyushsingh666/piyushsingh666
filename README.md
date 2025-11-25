@@ -70,6 +70,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=piyushsingh666&theme=tokyonight)
 
 ---
 
