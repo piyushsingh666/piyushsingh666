@@ -75,21 +75,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Piyush Singh's Most Used Languages" />
 
 </div>
-
-📊 GitHub Stats
-
-<div align="center">
-
-<!-- GitHub Stats Card -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true" alt="Piyush Singh's GitHub Stats" />
-
-<!-- Top Languages Card -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Piyush Singh's Most Used Languages" />
-
-</div>
-
 ---
 
 <h3 align="center">✨ Thanks for visiting! Don’t forget to star the repos you like! ✨</h3>
