@@ -1,15 +1,88 @@
+<!-- Profile Header -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=1261Ao&center=true&vCenter=true&width=650&lines=Hi,+I'm+Piyush+Singh"/>
+  </p>
+  <h1 align="center">
+</h1>  
+    
+<h3 align="center">
+  A Passionate Full-Stack Developer | Focused on Building and Scaling
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/piyush_s666) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyush-singh-826009256) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhpiyushlaxmi@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=piyushsingh666&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=piyushsingh666&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=FF3B6F&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Java+%7C+Python+%7C+MySQL%7C+MongoDB%7C+MERN;Open+to+Collaborations+%26+Projects;Welcome+to+my+Developer+Profile." />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=piyushsingh666&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💠 About Me  
+
+- 🔥 Full-Stack Developer passionate about scalable & modern web solutions 
+- 💡 Strong foundation in **Java, Python, React, Node.js, and SQL/NoSQL**
+- 🌱 Continuously practicing and adapting to new tools and engineering paradigms.
+- 🧩 Love solving real-world problems with clean, maintainable code
+
+---
+
+## 🛠 Tech Stack  
+
+### **Languages**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### **Backend**
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+---
+
+
+## 🔗 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/piyush-singh-826009256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:singhpiyushlaxmi@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/piyush_s666" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats  
+
+<div align="center">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true" alt="Piyush Singh's GitHub Stats" />
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Piyush Singh's Most Used Languages" />
+
+</div>
+
+## 📊 GitHub Stats
+
+![Piyush Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
+
+![Piyush Singh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
+
+
+---
+
+<h3 align="center">✨ Thanks for visiting! Don’t forget to star the repos you like! ✨</h3>
