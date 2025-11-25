@@ -67,6 +67,12 @@
 ---
 
 # 📊 GitHub Stats  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-codestackr.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-codestackr.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
 
 ![GitHub Stats](https://github-readme-stats-codestackr.vercel.app/api?username=piyushsingh666&show_icons=true&theme=radical&border_radius=20)
