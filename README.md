@@ -67,6 +67,9 @@
 ---
 
 # 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-codestackr.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
