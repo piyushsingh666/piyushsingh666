@@ -76,12 +76,19 @@
 
 </div>
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
-![Piyush Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Piyush Singh's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
+<!-- GitHub Stats Card -->
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsingh666&show_icons=true&theme=dark&hide_border=true&rank_icon=github&count_private=true" alt="Piyush Singh's GitHub Stats" />
+
+<!-- Top Languages Card -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Piyush Singh's Most Used Languages" />
+
+</div>
 
 ---
 
