@@ -1,16 +1,16 @@
 <!-- Profile Header -->
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=1261Ao&center=true&vCenter=true&width=650&lines=Hi,+I'm+Piyush+Singh"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=38&pause=1000&color=1261Ao&center=true&vCenter=true&width=650&lines=Hi,+I'm+Piyush+Singh"/>
   </p>
   <h1 align="center">
 </h1>  
     
-<h4 align="center">
+<h3 align="center">
   A Passionate Full-Stack Developer | Focused on Building and Scaling
-</h4>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=FF3B6F&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Java+%7C+Python+%7C+MySQL%7C+MongoDB%7C+MERN;Open+to+Collaborations+%26+Projects;Welcome+to+my+Developer+Profile." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=FF3B6F&center=true&vCenter=true&width=550&lines=Full-Stack+Developer;Java+%7C+Python+%7C+MySQL%7C+MongoDB%7C+MERN;Open+to+Collaborations+%26+Projects;Welcome+to+my+Developer+Profile." />
 </p>
 
 ---
