@@ -68,7 +68,11 @@
 
 ## 📊 GitHub Stats  
 
+<div align="center">
+
 ![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=piyushsingh666&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
